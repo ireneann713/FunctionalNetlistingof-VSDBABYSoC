@@ -6,11 +6,9 @@
 A functional simulation simulates the design description to verify its logical correctness. A circuit represented in the form of logic expressions can be simulated to verify that it will function as expected. The tool that performs this task is called a functional simulator.
 
 
-![image](https://user-images.githubusercontent.com/55539862/180016443-a20bbf7c-1899-42f4-aab4-1660d1fae483.png)
-
 ## Simulation of VSDBABY SoC
 
-![image](https://user-images.githubusercontent.com/55539862/178993878-de2acc6f-27ca-4bdd-92db-aceb0b396d2d.png)
+![image](https://user-images.githubusercontent.com/55539862/180016443-a20bbf7c-1899-42f4-aab4-1660d1fae483.png)
 
 ## ACKNOWLEDGEMENTS
 
