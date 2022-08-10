@@ -17,6 +17,7 @@ A functional simulation simulates the design description to verify its logical c
   * **OUT:** This is the `output OUT` signal of the `VSDBabySoC` module. This signal comes from the DAC (due to simulation restrictions it behaves like a digital signal which is incorrect), originally.
   * **RV_TO_DAC[9:0]:** This is the 10-bit `output [9:0] OUT` port of the `RVMYTH` core. This port comes from the RVMYTH register #17, originally.
   * **OUT:** This is a `real` datatype wire which can simulate analog values. It is the `output wire real OUT` signal of the `DAC` module. This signal comes from the DAC, originally.
+![image](https://user-images.githubusercontent.com/55539862/184002486-7640fa06-fd8f-4af8-9048-c8224e397097.png)
 
 
 ## ACKNOWLEDGEMENTS
