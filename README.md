@@ -8,9 +8,9 @@ A functional simulation simulates the design description to verify its logical c
 ![image](https://user-images.githubusercontent.com/55539862/178995072-9dab76bc-da90-49f3-bfed-7e5ff88f76eb.png)
 
 
-## Simulation of VSDBABY SoC
+## Functional Simulation of VSDBABY SoC
 
-![image](https://user-images.githubusercontent.com/55539862/183136639-11da7fc6-97f4-4d80-b1d3-1ed202a68ae8.png)
+![image](https://user-images.githubusercontent.com/55539862/184349494-fc49e6fb-05ca-4478-9c7c-939b7075635a.png)
 
   * **CLK:** This is the `input CLK` signal of the `RVMYTH` core. This signal comes from the PLL, originally.
   * **reset:** This is the `input reset` signal of the `RVMYTH` core. This signal comes from an external source, originally.
